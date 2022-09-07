@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/yoonhyunglee/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I am a 4th-year Ph.D. candidate student in the Machine Intelligence Lab at the Seoul National University. My primary research interests lie in the area of Text-to-Speech and Spoken Language Modeling, and more specifically, aligning different modalities for multimodal deep learning model.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
