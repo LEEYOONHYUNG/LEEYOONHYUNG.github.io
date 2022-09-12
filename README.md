@@ -2,8 +2,6 @@
   
 [link](https://leeyoonhyung.github.io/)  
   
-[Demo the Theme](http://orderedlist.github.com/minimal/)  
-
 # Homepage Using Minimal Theme
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
