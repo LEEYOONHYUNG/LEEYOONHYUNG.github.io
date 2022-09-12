@@ -1,6 +1,6 @@
 # Portfolio Link  
   
-[link](https://leeyoonhyung.github.io/)  
+[Link](https://leeyoonhyung.github.io/)  
   
 # Homepage Using Minimal Theme
 
